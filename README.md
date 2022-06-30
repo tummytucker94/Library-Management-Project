@@ -10,7 +10,7 @@ Libraian
 
 # Functional Requirements
 
-# 1. Admin
+## 1. Admin
 Can add/view/delete librarian
 Can logout
 

@@ -20,3 +20,12 @@ To create a library management software that allows admin to add,view, and delet
 - View issued books
 - Return Books
 - Can logout
+
+## 3. Technology
+- Maven
+- HTML/CSS/Bootstrap or React
+- Hibernate/JPA
+- Java
+- IntelliJ IDEA
+- Spring MVC
+- Springboot

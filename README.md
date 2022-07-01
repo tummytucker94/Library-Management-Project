@@ -6,7 +6,7 @@ To create a library management software that allows admin to add,view, and delet
 
 # Users of the System
 - Admin
-- Libraian
+- Librarian
 
 # Functional Requirements
 

@@ -23,9 +23,7 @@ To create a library management software that allows admin to add,view, and delet
 
 ## 3. Technology
 - Maven
-- HTML/CSS/Bootstrap or React
-- Hibernate/JPA
+- MySQL
 - Java
 - IntelliJ IDEA
-- Spring MVC
-- Springboot
+
